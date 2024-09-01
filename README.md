@@ -1,4 +1,4 @@
-# AUTOLABELER
+# AUTOLABELER CUM AUTO-TRAINING PIPELINE
 # Auto-Annotation Pipeline for Labeling Large Datasets
 ![1700477345006](https://github.com/user-attachments/assets/29381f47-08e2-49d3-bbb2-dabb271612b7)
 ![1700477329913](https://github.com/user-attachments/assets/71c58759-de8d-4c93-8d3d-ddbc222e32d1)
