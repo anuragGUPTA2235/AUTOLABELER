@@ -1,1 +1,0 @@
-python train.py --workers 8 --device 0 --batch-size 32 --data data/coco.yaml --img 640 640 --cfg cfg/training/yolov7-tiny.yaml --weights 'yolov7-tiny.pt' --name autolabeller--hyp data/hyp.scratch.tiny.yaml --epochs 50
